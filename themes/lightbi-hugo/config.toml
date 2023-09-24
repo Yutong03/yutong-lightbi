@@ -19,17 +19,17 @@ Paginate = 6
 [Params] 
 mainSections = ["post","posts"]
 dateFormat = "2 January 2023"
-comments = false
-readingTime = false
-wordCount = false
+comments = true
+readingTime = true
+wordCount = true
 useHLJS = true
-socialShare = true
+socialShare = false
 delayDisqus = true
 showRelatedPosts = true 
 summaryLength  = "9"
 gcse = false
 Lastmod = false
-rss = false 
+rss = true 
 pagination = "10"
 
 
@@ -39,8 +39,8 @@ pagination = "10"
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://binovarghese.com/"
+  name = "Yutong Xia"
+  website = "https://ytxia.netlify.app/"
   email = "sample@gmail.com"
   facebook = "username"
   instagram = "username"
