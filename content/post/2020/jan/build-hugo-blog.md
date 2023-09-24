@@ -7,6 +7,5 @@ Description  : "sb"
 featured: true
 ---
 
-### Hugo?
 
 Yutong is sb.

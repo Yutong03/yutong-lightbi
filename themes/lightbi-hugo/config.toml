@@ -29,7 +29,7 @@ showRelatedPosts = true
 summaryLength  = "9"
 gcse = false
 Lastmod = false
-rss = true 
+rss = false 
 pagination = "10"
 
 
