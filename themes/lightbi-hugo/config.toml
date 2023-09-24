@@ -18,7 +18,7 @@ Paginate = 6
 
 [Params] 
 mainSections = ["post","posts"]
-dateFormat = "2023-01-23"
+dateFormat = "YYYY-MM-DD"
 comments = true
 readingTime = false
 wordCount = true
