@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "decap-cms-app": "^3.0.7",
     "hexo-netlify-cms": "^3.0.0"
   }
 }
