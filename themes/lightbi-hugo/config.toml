@@ -1,7 +1,7 @@
 baseURL = "https://ytxia.netlify.app"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Lightbi"
+title = "Yutong Xia"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
