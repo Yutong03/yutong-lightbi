@@ -10,5 +10,3 @@ featured: true
 ### Hugo?
 
 Yutong is sb.
-
-<!--Photo by Robert Katzki on Unsplash-->
