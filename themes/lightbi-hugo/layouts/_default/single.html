@@ -50,20 +50,6 @@
       <div class="card">
         <div class="row no-gutters">
           <div class="col-md-10">
-            <div class="card-body p-1.1">
-
-              <p class="p-0 m-0"><small class="text-muted ">Written By</small></p>
-              <h5>
-                {{ if not .Site.Params.hideAuthor }}
-                {{ if .Params.author }}
-                {{ .Params.author | safeHTML }}
-                {{ else }}
-                {{ .Site.Author.name | safeHTML }}
-                {{ end }}
-                {{ end }}
-              </h5>
-              <p class="card-text fs-1"></p>
-            </div>
           </div>
         </div>
 
